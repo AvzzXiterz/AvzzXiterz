@@ -1,17 +1,26 @@
-[
-  "62815647550713@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net",
-  "62@s.whatsapp.net"
-]
+{
+    "Creator": "wa.me/6281564755071",
+    "Access": [
+      "081564755071",
+      "08",
+      "08",
+      "08",
+      "08",
+      "08",
+      "08"
+    ],
+    "Access_Bot": [
+      "0815647550713", 
+      "08",
+      "08",
+      "08",
+      "08",
+      "08",
+      "08",
+      "08",
+      "08",
+      "08",
+      "08",
+      "08"
+    ]
+}
