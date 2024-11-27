@@ -1,7 +1,7 @@
 {
   "Filename": "PakTzy.js",
   "Access": [
-    "62815647550713",
+    "6281564755071",
     "62"
   ],
   "Access_Bot": [
